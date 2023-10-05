@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋! I'm Alex</h1>
-###
+
 <h3 align="center">A software developer from Italy 🍕</h3>
-###
+
 <p align="left">Main technologies I've used</p>
-###
+
 <div align="left">
   <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="30" alt="csharp logo"  />
   <img width="5" />
@@ -15,7 +15,7 @@
   <img width="5" />
   <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="30" alt="c logo"  />
 </div>
-###
+
 <div align="left">
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?logo=visualstudio&logoColor=white&style=for-the-badge" height="30" alt="visualstudio logo"  />
   <img width="5" />
@@ -25,4 +25,3 @@
   <img width="5" />
   <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" height="30" alt="azure logo"  />
 </div>
-###
